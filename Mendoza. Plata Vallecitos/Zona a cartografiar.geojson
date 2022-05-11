@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Zona a cartografiar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "nombre": "Zona El Plata/ Vallecitos" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -7792489.618166611529887, -3851236.230722907930613 ], [ -7681082.39583074208349, -3851306.786278535611928 ], [ -7681047.118052930571139, -3939668.800257562659681 ], [ -7792366.145944265648723, -3939642.341924202162772 ], [ -7792489.618166611529887, -3851236.230722907930613 ] ] ] ] } }
+]
+}
