@@ -1,4 +1,4 @@
-# Lo Nuevo
+# Lo Nuevo!!
 1. Indicación de desnivel sobre la senda.
 2. Tiempos de marcha calculados conforme a la distancias + el desnivel (solo el de subida) x 10, todo calculado a 3 km/h. Es sólo un método de aproximación del tiempo de marcha que intenta de alguna manera ponderar el esfuerzo del desnivel de subida.
 3. Escala de pendientes adaptada a mis sensaciones:
@@ -10,7 +10,7 @@
 ---
 
 ![ültimo Mapa](Anexos/Captura%20Tronador%20(Pequeño).JPG)
-# The New
+# The New!!
 1. Indication of unevenness on the path.
 2. Walking times calculated according to the distances + the elevation gain (only the ascent) x 10, all calculated at 3 km/h. It is only a method of approximation of the walking time that tries in some way to weight the effort of the climb.
 3. Scale of slopes adapted to my sensations:
