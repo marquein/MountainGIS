@@ -1,1 +1,41 @@
-    Pedido1.	@sergcanete    Mapas para hacer1.	Llullaillaco.2.	Penitentes.3.	Vallecitos.4.	Quebrada Matienzo. 5.	Arenales6.	Quebrada del telégrafo.          Tamaño1.	A2: (1:25) 28.000 mts x 20.000 mts2.	A3 (1:25) 7.000 mts x 10.0003.	A3 (1:50) 13.500 mts x 19.500     Pendientes1.	0 a 15° Blanco2.	15° 30° Amarillo.3.	30° a 45° Anaranjado4.	45° a 80° Rojo5.	> de 80° Negro.6.	Sombra hillshade factor exageración Z 15.7.	Az de la luz 90     Curvas1.	25 mts2.	100 mts.     Papel       Impreso en StonePaper     Grilla1.	UTM cada 500 y 1.000 metros,2.	Distancias entre piernas de una senda.3.	Tiene sentido hacer el borde cebrado? o cebra más fina4.	     Estilo/ Marca Personal*	Iconografía.o	La cumbre.*	Tipografía.*	Ponerle nombre a las zonas “Zona de los Seis miles”              Obtenido de la página AndesProfundo de chile                            
+    Pedido
+1.	@sergcanete
+    Mapas para hacer
+1.	Llullaillaco.
+2.	Penitentes.
+3.	Vallecitos.
+4.	Quebrada Matienzo. 
+5.	Arenales
+6.	Quebrada del telï¿½grafo.
+          Tamaï¿½o
+1.	A2: (1:25) 28.000 mts x 20.000 mts
+2.	A3 (1:25) 7.000 mts x 10.000
+3.	A3 (1:50) 13.500 mts x 19.500
+     Pendientes
+1.	0 a 15ï¿½ Blanco
+2.	15ï¿½ 30ï¿½ Amarillo.
+3.	30ï¿½ a 45ï¿½ Anaranjado
+4.	45ï¿½ a 80ï¿½ Rojo
+5.	> de 80ï¿½ Negro.
+6.	Sombra hillshade factor exageraciï¿½n Z 15.
+7.	Az de la luz 90
+     Curvas
+1.	25 mts
+2.	100 mts.
+     Papel
+       Impreso en StonePaper
+     Grilla
+1.	UTM cada 500 y 1.000 metros,
+2.	Distancias entre piernas de una senda.
+3.	Tiene sentido hacer el borde cebrado? o cebra mï¿½s fina
+4.	
+     Estilo/ Marca Personal
+*	Iconografï¿½a.
+o	La cumbre.
+*	Tipografï¿½a.
+*	Ponerle nombre a las zonas ï¿½Zona de los Seis milesï¿½
+              Obtenido de la pï¿½gina AndesProfundo de chile
+       
+       
+       
+       

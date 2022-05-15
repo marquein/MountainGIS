@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "f2e514bf91219554",
+    "type": "split",
+    "children": [
+      {
+        "id": "160cfc04d9d19048",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mendoza. Cerro Montura/REDME.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2df817f5ac42880",
+    "type": "split",
+    "children": [
+      {
+        "id": "61f29941d19b9451",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e652b5032d2ffe34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "44ec31f619826828",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1ebc9802c55d48b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380
+  },
+  "right": {
+    "id": "f0854efae2d81ffb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8489dc913c15245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65c914c18e388f65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mendoza. Cerro Montura/REDME.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3855edeb29cb91c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mendoza. Cerro Montura/REDME.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8962b809d1367e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b45399adcf448f3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mendoza. Cerro Montura/REDME.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "160cfc04d9d19048",
+  "lastOpenFiles": [
+    "Mendoza. Cerro Montura/REDME.md",
+    "README.md",
+    "Mapas para hacer.md"
+  ]
+}
