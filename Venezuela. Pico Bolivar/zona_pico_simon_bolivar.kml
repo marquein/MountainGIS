@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="zona_pico_simon_bolivar" id="zona_pico_simon_bolivar">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="nombre" type="string"></SimpleField>
+	<SimpleField name="perimetro" type="float"></SimpleField>
+	<SimpleField name="area" type="float"></SimpleField>
+</Schema>
+<Folder><name>zona_pico_simon_bolivar</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#zona_pico_simon_bolivar">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="nombre">Zona Pico Simón Bolivar</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-71.1967478777443,8.62091453957266 -70.9665951349077,8.62107120213237 -70.9665951349077,8.47252610601573 -71.1968271041618,8.47252610601573 -71.1967478777443,8.62091453957266</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

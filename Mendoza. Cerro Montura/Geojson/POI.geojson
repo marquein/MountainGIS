@@ -1,16 +1,20 @@
 {
 "type": "FeatureCollection",
 "name": "POI",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
 "features": [
-{ "type": "Feature", "properties": { "Name": "Playa de Estacionamiento", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "tipo": "poi" }, "geometry": { "type": "Point", "coordinates": [ -69.426902433047985, -32.610286195081677, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "La Gloria 3.120 mts", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "tipo": "camp" }, "geometry": { "type": "Point", "coordinates": [ -69.551966707327395, -32.560310775579453, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Chacay", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "tipo": "ref" }, "geometry": { "type": "Point", "coordinates": [ -69.470323557244271, -32.545000515407423, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Inicio de huella al Montura", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null, "tipo": "poi" }, "geometry": { "type": "Point", "coordinates": [ -69.406634250894285, -32.618138428413133, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Agua", "tipo": "agua" }, "geometry": { "type": "Point", "coordinates": [ -69.534589983522892, -32.559037003666162, 3078.244141000000127 ] } },
-{ "type": "Feature", "properties": { "Name": "Chacay", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": null, "extrude": null, "visibility": null, "drawOrder": null, "icon": null, "tipo": "marca" }, "geometry": { "type": "Point", "coordinates": [ -69.466467076058819, -32.546146150601324, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Glorieta", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": null, "extrude": null, "visibility": null, "drawOrder": null, "icon": null, "tipo": "marca" }, "geometry": { "type": "Point", "coordinates": [ -69.551937030939939, -32.560309340611532, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Montura Cumbre", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": null, "extrude": null, "visibility": null, "drawOrder": null, "icon": null, "tipo": "marca" }, "geometry": { "type": "Point", "coordinates": [ -69.588472967949073, -32.521480061036257, 0.0 ] } },
-{ "type": "Feature", "properties": { "Name": "Playa de estacionamiento", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": null, "extrude": null, "visibility": null, "drawOrder": null, "icon": null, "tipo": "marca" }, "geometry": { "type": "Point", "coordinates": [ -69.426948333867202, -32.610311313972275, 0.0 ] } }
+{ "type": "Feature", "properties": { "Name": "Playa de Estacionamiento", "tipo": "poi", "nombre_visible": "si" }, "geometry": { "type": "Point", "coordinates": [ -7728567.426201188005507, -3843689.486641390249133, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "La Gloria 3.120 m", "tipo": "camp", "nombre_visible": "si" }, "geometry": { "type": "Point", "coordinates": [ -7742489.517530402168632, -3837086.946226301603019, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Chacay", "tipo": "ref", "nombre_visible": "si" }, "geometry": { "type": "Point", "coordinates": [ -7733401.04363638907671, -3835064.955684777814895, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Inicio de huella al Montura", "tipo": "poi", "nombre_visible": "si" }, "geometry": { "type": "Point", "coordinates": [ -7726311.182484531775117, -3844727.225193452090025, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Agua", "tipo": "agua", "nombre_visible": "si" }, "geometry": { "type": "Point", "coordinates": [ -7740555.149484829045832, -3836918.708969321567565, 3078.244141000000127 ] } },
+{ "type": "Feature", "properties": { "Name": "Chacay", "tipo": "marca", "nombre_visible": "no" }, "geometry": { "type": "Point", "coordinates": [ -7732971.742114571854472, -3835216.245129412971437, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Glorieta", "tipo": "marca", "nombre_visible": "no" }, "geometry": { "type": "Point", "coordinates": [ -7742486.213970061391592, -3837086.756697253324091, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Montura Cumbre", "tipo": "marca", "nombre_visible": "no" }, "geometry": { "type": "Point", "coordinates": [ -7746553.375873573124409, -3831959.335439886432141, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Playa de estacionamiento", "tipo": "marca", "nombre_visible": "no" }, "geometry": { "type": "Point", "coordinates": [ -7728572.535857009701431, -3843692.806168566457927, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": null, "tipo": "marca inv", "nombre_visible": "no" }, "geometry": { "type": "Point", "coordinates": [ -7735660.596236201003194, -3836409.799307980109006, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": null, "tipo": "marca inv", "nombre_visible": "no" }, "geometry": { "type": "Point", "coordinates": [ -7731754.731192299164832, -3835673.702661633491516, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": null, "tipo": "marca inv", "nombre_visible": "no" }, "geometry": { "type": "Point", "coordinates": [ -7743234.778581796213984, -3836046.741006669588387, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": null, "tipo": "marca inv", "nombre_visible": "no" }, "geometry": { "type": "Point", "coordinates": [ -7745862.081964871846139, -3833165.149098824709654, 0.0 ] } }
 ]
 }

@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "cerro_montura_poi_adri",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Rincón de Ranchitos", "icon": "camp", "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7743865.869389686733484, -3838370.116630024742335, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Qda Seca o Ranchito", "icon": null, "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7739513.413504694588482, -3846544.579391647130251, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Aº La Luna", "icon": null, "visible": "si", "letra": "arroyo" }, "geometry": { "type": "Point", "coordinates": [ -7754186.628821008838713, -3845283.343555955216289, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Qda Negra", "icon": null, "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7760501.086685718968511, -3847859.712224068120122, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Qhapaq ñan Argentina (tranquera?)", "icon": "punto", "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7733195.745091248303652, -3843141.804972919169813, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Río Mendoza", "icon": null, "visible": "si", "letra": "arroyo" }, "geometry": { "type": "Point", "coordinates": [ -7724784.892422304488719, -3847204.745870102196932, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Qda Ranchillos", "icon": null, "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7734164.30190200265497, -3840322.141486569307745, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Vivac", "icon": "punto", "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7741060.09921841789037, -3843328.472371995914727, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Aº Cienaga", "icon": null, "visible": "si", "letra": "arroyo" }, "geometry": { "type": "Point", "coordinates": [ -7738506.309908721596003, -3833123.418171989731491, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Álamo Guacho", "icon": "punto", "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7726383.950075180269778, -3822083.969967579469085, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Vertiene de Arroyo de la Luna", "icon": "agua", "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7753677.320253729820251, -3846211.731011326424778, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Puente de Picheuta", "icon": "puente", "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7739632.306544429622591, -3853086.103256130591035, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Fortin Picheuta\n\nFortin Picheuta\nRuta Nacional 7 Km 1163", "icon": "punto", "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7739160.298296837136149, -3853445.174758187960833, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Cascada Ranchillos", "icon": "cascada", "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7734933.270662101916969, -3839093.55500580649823, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Tambo Inca de Ranchillo", "icon": "punto", "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7733497.91406958643347, -3844673.562226481270045, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Qda. de la Vena", "icon": null, "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7718759.613584546372294, -3847623.89103572955355, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Playa de Estacionamiento", "icon": null, "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7728567.426201188005507, -3843689.486641390249133, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "La Gloria 3.120 m", "icon": "camp", "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7742489.517530402168632, -3837086.946226301603019, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Ref. Chacay", "icon": "ref", "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7733401.04363638907671, -3835064.955684777814895, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Inicio de huella al Montura", "icon": "punto", "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7726311.182484531775117, -3844727.225193452090025, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Aº Uspallata", "icon": null, "visible": "si", "letra": "arroyo" }, "geometry": { "type": "Point", "coordinates": [ -7722673.202685506083071, -3846424.200580221600831, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "YPF Uspallata", "icon": "punto", "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7719841.103788117878139, -3841161.030110373161733, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Río Uspallata", "icon": null, "visible": "si", "letra": "arroyo" }, "geometry": { "type": "Point", "coordinates": [ -7720666.696584013290703, -3842583.856077685952187, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Qda. Ancha", "icon": null, "visible": "si", "letra": "null" }, "geometry": { "type": "Point", "coordinates": [ -7730146.457411450333893, -3832154.731106931809336, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Aº Durazno", "icon": null, "visible": "si", "letra": "arroyo" }, "geometry": { "type": "Point", "coordinates": [ -7727399.926337102428079, -3826314.755396901629865, 0.0 ] } }
+]
+}

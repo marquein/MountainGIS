@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "cerro_montura_POI_19s",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32719" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Playa de Estacionamiento", "tipo": "poi", "nombre_visible": "si", "x": 459946.0, "y": 6391835.0 }, "geometry": { "type": "Point", "coordinates": [ 459946.000000056403223, 6391834.999940913170576, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Chacay", "tipo": "ref", "nombre_visible": "si", "x": 455840.0, "y": 6399055.0 }, "geometry": { "type": "Point", "coordinates": [ 455840.00000006344635, 6399054.999940970912576, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Inicio de huella al Montura", "tipo": "poi", "nombre_visible": "si", "x": 461851.0, "y": 6390972.0 }, "geometry": { "type": "Point", "coordinates": [ 461851.000000054889824, 6390971.999940906651318, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Agua", "tipo": "agua", "nombre_visible": "si", "x": 449814.0, "y": 6397471.0 }, "geometry": { "type": "Point", "coordinates": [ 449813.586719985876698, 6397470.527981013059616, 3078.244141000000127 ] } },
+{ "type": "Feature", "properties": { "Name": "Chacay", "tipo": "marca", "nombre_visible": "no", "x": 456203.0, "y": 6398930.0 }, "geometry": { "type": "Point", "coordinates": [ 456202.655503177084029, 6398929.594650147482753, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Glorieta", "tipo": "marca", "nombre_visible": "no", "x": 448186.0, "y": 6397321.0 }, "geometry": { "type": "Point", "coordinates": [ 448185.785143272427376, 6397321.173458053730428, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Montura Cumbre", "tipo": "marca", "nombre_visible": "no", "x": 444732.0, "y": 6401607.0 }, "geometry": { "type": "Point", "coordinates": [ 444732.06871693074936, 6401607.200244264677167, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Playa de estacionamiento", "tipo": "marca", "nombre_visible": "no", "x": 459942.0, "y": 6391832.0 }, "geometry": { "type": "Point", "coordinates": [ 459941.704517546750139, 6391832.198104834184051, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": null, "tipo": "marca inv", "nombre_visible": "no", "x": 453939.0, "y": 6397918.0 }, "geometry": { "type": "Point", "coordinates": [ 453939.35416142991744, 6397917.546315636485815, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": null, "tipo": "marca inv", "nombre_visible": "no", "x": 457231.0, "y": 6398550.0 }, "geometry": { "type": "Point", "coordinates": [ 457230.786304163048044, 6398550.041671421378851, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": null, "tipo": "marca inv", "nombre_visible": "no", "x": 447550.0, "y": 6398191.0 }, "geometry": { "type": "Point", "coordinates": [ 447549.922921660880093, 6398190.808872262015939, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": null, "tipo": "marca inv", "nombre_visible": "no", "x": 445321.0, "y": 6400598.0 }, "geometry": { "type": "Point", "coordinates": [ 445320.837347382272128, 6400597.975663216784596, 0.0 ] } }
+]
+}
