@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - https://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Wikiloc - Veguitas Superior al estacionamiento del centro de esquí</name>
+    <link href="https://www.wikiloc.com/mountaineering-trails/veguitas-superior-al-estacionamiento-del-centro-de-esqui-94240475">
+      <text>Veguitas Superior al estacionamiento del centro de esquí on Wikiloc</text>
+    </link>
+    <time>2022-01-29T13:38:53Z</time>
+  </metadata>
+  <trk>
+    <name>Veguitas Superior al estacionamiento del centro de esquí</name>
+    <cmt></cmt>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="-32.974985" lon="-69.382623">
+        <ele>3457.255</ele>
+        <time>2022-01-29T12:30:14Z</time>
+      </trkpt>
+      <trkpt lat="-32.974436" lon="-69.381619">
+        <ele>3453.607</ele>
+        <time>2022-01-29T12:33:30Z</time>
+      </trkpt>
+      <trkpt lat="-32.974211" lon="-69.380295">
+        <ele>3435.217</ele>
+        <time>2022-01-29T12:38:05Z</time>
+      </trkpt>
+      <trkpt lat="-32.973585" lon="-69.379270">
+        <ele>3402.608</ele>
+        <time>2022-01-29T12:40:35Z</time>
+      </trkpt>
+      <trkpt lat="-32.973099" lon="-69.376695">
+        <ele>3349.214</ele>
+        <time>2022-01-29T12:45:45Z</time>
+      </trkpt>
+      <trkpt lat="-32.972919" lon="-69.374784">
+        <ele>3321.619</ele>
+        <time>2022-01-29T12:49:51Z</time>
+      </trkpt>
+      <trkpt lat="-32.973124" lon="-69.374199">
+        <ele>3314.067</ele>
+        <time>2022-01-29T12:50:45Z</time>
+      </trkpt>
+      <trkpt lat="-32.973207" lon="-69.372685">
+        <ele>3289.629</ele>
+        <time>2022-01-29T12:53:37Z</time>
+      </trkpt>
+      <trkpt lat="-32.974044" lon="-69.370938">
+        <ele>3265.665</ele>
+        <time>2022-01-29T12:57:28Z</time>
+      </trkpt>
+      <trkpt lat="-32.975409" lon="-69.369442">
+        <ele>3248.499</ele>
+        <time>2022-01-29T13:02:28Z</time>
+      </trkpt>
+      <trkpt lat="-32.976047" lon="-69.369404">
+        <ele>3236.882</ele>
+        <time>2022-01-29T13:03:46Z</time>
+      </trkpt>
+      <trkpt lat="-32.976095" lon="-69.369157">
+        <ele>3234.410</ele>
+        <time>2022-01-29T13:05:32Z</time>
+      </trkpt>
+      <trkpt lat="-32.976116" lon="-69.368441">
+        <ele>3218.079</ele>
+        <time>2022-01-29T13:06:47Z</time>
+      </trkpt>
+      <trkpt lat="-32.975971" lon="-69.367932">
+        <ele>3205.205</ele>
+        <time>2022-01-29T13:07:46Z</time>
+      </trkpt>
+      <trkpt lat="-32.976073" lon="-69.367475">
+        <ele>3190.625</ele>
+        <time>2022-01-29T13:09:10Z</time>
+      </trkpt>
+      <trkpt lat="-32.975766" lon="-69.367320">
+        <ele>3180.608</ele>
+        <time>2022-01-29T13:10:01Z</time>
+      </trkpt>
+      <trkpt lat="-32.975769" lon="-69.367024">
+        <ele>3172.256</ele>
+        <time>2022-01-29T13:10:36Z</time>
+      </trkpt>
+      <trkpt lat="-32.975088" lon="-69.367196">
+        <ele>3157.691</ele>
+        <time>2022-01-29T13:12:02Z</time>
+      </trkpt>
+      <trkpt lat="-32.974857" lon="-69.367077">
+        <ele>3151.299</ele>
+        <time>2022-01-29T13:12:30Z</time>
+      </trkpt>
+      <trkpt lat="-32.975315" lon="-69.365974">
+        <ele>3132.221</ele>
+        <time>2022-01-29T13:14:23Z</time>
+      </trkpt>
+      <trkpt lat="-32.975739" lon="-69.365674">
+        <ele>3121.057</ele>
+        <time>2022-01-29T13:15:23Z</time>
+      </trkpt>
+      <trkpt lat="-32.975357" lon="-69.365261">
+        <ele>3109.251</ele>
+        <time>2022-01-29T13:16:24Z</time>
+      </trkpt>
+      <trkpt lat="-32.975495" lon="-69.364088">
+        <ele>3087.294</ele>
+        <time>2022-01-29T13:18:19Z</time>
+      </trkpt>
+      <trkpt lat="-32.975331" lon="-69.363686">
+        <ele>3075.262</ele>
+        <time>2022-01-29T13:19:21Z</time>
+      </trkpt>
+      <trkpt lat="-32.975549" lon="-69.363183">
+        <ele>3061.094</ele>
+        <time>2022-01-29T13:20:33Z</time>
+      </trkpt>
+      <trkpt lat="-32.975726" lon="-69.363163">
+        <ele>3054.857</ele>
+        <time>2022-01-29T13:21:05Z</time>
+      </trkpt>
+      <trkpt lat="-32.975984" lon="-69.362715">
+        <ele>3041.422</ele>
+        <time>2022-01-29T13:23:22Z</time>
+      </trkpt>
+      <trkpt lat="-32.975741" lon="-69.362367">
+        <ele>3034.608</ele>
+        <time>2022-01-29T13:27:14Z</time>
+      </trkpt>
+      <trkpt lat="-32.976528" lon="-69.359190">
+        <ele>3000.468</ele>
+        <time>2022-01-29T13:32:31Z</time>
+      </trkpt>
+      <trkpt lat="-32.975659" lon="-69.359030">
+        <ele>2980.423</ele>
+        <time>2022-01-29T13:35:09Z</time>
+      </trkpt>
+      <trkpt lat="-32.975630" lon="-69.358802">
+        <ele>2975.491</ele>
+        <time>2022-01-29T13:35:38Z</time>
+      </trkpt>
+      <trkpt lat="-32.975292" lon="-69.358558">
+        <ele>2973.413</ele>
+        <time>2022-01-29T13:38:53Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>
