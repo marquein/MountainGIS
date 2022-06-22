@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Títulos.kml</name>
+	<Style id="waypoint_n23">
+		<IconStyle>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_triangle7">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint_n23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint_h17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_h17">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_triangle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_triangle4">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Títulos</name>
+		<Placemark>
+			<name>Qda de la Angostura</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.39954519897981</longitude>
+				<latitude>-33.00197289874003</latitude>
+				<altitude>0</altitude>
+				<heading>0.00190873752821473</heading>
+				<tilt>17.09928629461502</tilt>
+				<range>5503.82638741511</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.40011266451116,-33.00944401963563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aº Las Mulas</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.33479403108191</longitude>
+				<latitude>-33.03249465886316</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09102872270239611</heading>
+				<tilt>0</tilt>
+				<range>9853.991670706388</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.30687488646758,-33.03408991653293,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aº Los Morteritos</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.34980385094799</longitude>
+				<latitude>-33.03556885535853</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08284631327686919</heading>
+				<tilt>0</tilt>
+				<range>4459.457448847106</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.33606648861125,-33.03670274725827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Quebrada Los Potrerillos</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.32928480089384</longitude>
+				<latitude>-33.01780499394385</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09403071170307779</heading>
+				<tilt>0</tilt>
+				<range>3797.109940314729</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.32347602808954,-33.01715299470982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Qda. Casas</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.41966909789959</longitude>
+				<latitude>-33.06330213977845</latitude>
+				<altitude>0</altitude>
+				<heading>26.43357268422115</heading>
+				<tilt>17.05872274990758</tilt>
+				<range>12650.64051909909</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.41967057746827,-33.06330271184125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Qda. Gevara</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.41966909789959</longitude>
+				<latitude>-33.06330213977845</latitude>
+				<altitude>0</altitude>
+				<heading>26.43357268422115</heading>
+				<tilt>17.05872274990758</tilt>
+				<range>12650.64051909909</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.43622190380104,-33.07647851039496,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Qda del Condor</name>
+			<Camera>
+				<gx:TimeStamp><when>2018-07-18T06:33:14.245147705Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.35161912551261</longitude>
+				<latitude>-33.02928884465783</latitude>
+				<altitude>13117.32965989383</altitude>
+				<heading>33.65709944373637</heading>
+				<tilt>0.1697718088572615</tilt>
+				<roll>52.11718062744986</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.36247998636823,-33.04830100282157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Quebrada Los Manantiales</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.30660150825891</longitude>
+				<latitude>-32.95804663685612</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003436775007402105</heading>
+				<tilt>0</tilt>
+				<range>7420.133885063186</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.32043300209418,-32.96320120260285,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Qda. Del Monte</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.3225377001523</longitude>
+				<latitude>-32.95675576182939</latitude>
+				<altitude>0</altitude>
+				<heading>0.005234530888517814</heading>
+				<tilt>0</tilt>
+				<range>7294.950312071136</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.34745951152044,-32.9434284448943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Qda. Del Medio</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.38439149951378</longitude>
+				<latitude>-32.96446535841354</latitude>
+				<altitude>0</altitude>
+				<heading>0.4718347190745089</heading>
+				<tilt>0</tilt>
+				<range>1055.447483268505</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.38605981102477,-32.96609155306244,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Camino Francisco Guiñazú</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.33929836300619</longitude>
+				<latitude>-32.99480313815195</latitude>
+				<altitude>0</altitude>
+				<heading>0.01437521523593964</heading>
+				<tilt>0</tilt>
+				<range>1420.963071209108</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.33854893500768,-32.99693460015798,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aº Negro</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.30019962908055</longitude>
+				<latitude>-33.05318807644326</latitude>
+				<altitude>0</altitude>
+				<heading>0.4259181686017212</heading>
+				<tilt>0</tilt>
+				<range>3638.918346871327</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.3023242858708,-33.05309770093978,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

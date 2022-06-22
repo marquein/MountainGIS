@@ -1,0 +1,1786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Cerros.kml</name>
+	<Style id="waypoint_h171">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl91">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_triangle4">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint_n23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint_h17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_n2100">
+		<IconStyle>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_triangle7">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint_h170000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint201">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint_n231</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint_h171</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="waypoint220">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint_n2100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint_h170000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_n231">
+		<IconStyle>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin140</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl91</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_h17">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_triangle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_n23">
+		<IconStyle>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin140">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Cerros</name>
+		<Placemark>
+			<name>Pico Parra, 4450m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.39913771606213</longitude>
+				<latitude>-32.94100321864786</latitude>
+				<altitude>0</altitude>
+				<heading>0.003082566332705925</heading>
+				<tilt>0</tilt>
+				<range>1500.456653954555</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.40225760952902,-32.94182079025982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mortero, 2520m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.32061349091219</longitude>
+				<latitude>-33.00157563572116</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04109135542401699</heading>
+				<tilt>17.09653748226346</tilt>
+				<range>4459.99351940226</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.31868979482351,-33.00814500481403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Morteritos, 2540m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.31378010211023</longitude>
+				<latitude>-33.00824526028985</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04481361375438783</heading>
+				<tilt>17.09344706827655</tilt>
+				<range>3288.652271471682</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.31249821034254,-33.00710528211984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aspero, 2396m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.31378010211023</longitude>
+				<latitude>-33.00824526028985</latitude>
+				<altitude>0</altitude>
+				<heading>-0.04481361375438783</heading>
+				<tilt>17.09344706827655</tilt>
+				<range>3288.652271471682</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.31199164658119,-33.01222106473209,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Franke, 4811m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.40057332104523</longitude>
+				<latitude>-32.99459690618302</latitude>
+				<altitude>0</altitude>
+				<heading>0.002468952284123254</heading>
+				<tilt>17.0991418862679</tilt>
+				<range>5449.106661372166</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.40038819416968,-32.99934042066526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aguja del Medio, 4279m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.40047636490158</longitude>
+				<latitude>-32.96002597421737</latitude>
+				<altitude>0</altitude>
+				<heading>0.002416342742641697</heading>
+				<tilt>17.09441640102814</tilt>
+				<range>3657.009424713687</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.40470429482653,-32.95992576624067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Adolfo Calle</name>
+			<TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint220</styleUrl>
+			<Point>
+				<coordinates>-69.400255,-32.973215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rincón</name>
+			<TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint201</styleUrl>
+			<Point>
+				<coordinates>-69.430266,-32.971466,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vallecitos</name>
+			<TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint201</styleUrl>
+			<Point>
+				<coordinates>-69.438299,-32.982899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Adolfo Calle</name>
+			<styleUrl>#waypoint220</styleUrl>
+			<Point>
+				<coordinates>-69.40025958284461,-32.97321802163535,4277.7197265625</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lomas Amarillas. 5137</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2015-04-04T15:37:05Z</begin>
+					<end>2015-04-04T19:20:15Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.4176545150811</longitude>
+				<latitude>-32.98826839661657</latitude>
+				<altitude>0</altitude>
+				<heading>0.01560039381426722</heading>
+				<tilt>34.04946704768703</tilt>
+				<range>2009.077872601565</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint220</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.41848300840266,-32.9933818107077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pico Ibañez 5224</name>
+			<Camera>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.43333044772292</longitude>
+				<latitude>-33.01727606747177</latitude>
+				<altitude>5821.534899373262</altitude>
+				<heading>-91.01508511370187</heading>
+				<tilt>0.04385770043697133</tilt>
+				<roll>8.145915723409395</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.43097778632482,-33.02048127959289,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Negro 5365</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.43223197378715</longitude>
+				<latitude>-33.02794342691331</latitude>
+				<altitude>0</altitude>
+				<heading>-98.56358503514822</heading>
+				<tilt>0</tilt>
+				<range>5849.620193131902</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.42500815477361,-33.03044205598241,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andresito 3112</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.35401375722566</longitude>
+				<latitude>-32.97344362871177</latitude>
+				<altitude>0</altitude>
+				<heading>0.02238728193491479</heading>
+				<tilt>0</tilt>
+				<range>933.8209925000823</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.35405976584975,-32.97285239821676,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Fernando, 2540m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.31430493525586</longitude>
+				<latitude>-32.98279700710243</latitude>
+				<altitude>0</altitude>
+				<heading>0.0007540230812430258</heading>
+				<tilt>0</tilt>
+				<range>523.2608513992728</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.31362375089746,-32.98330682929319,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pico Plata, 5845m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-07-18T06:33:14.245147705Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.44587350280737</longitude>
+				<latitude>-33.01388526153927</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8089017085541198</heading>
+				<tilt>0</tilt>
+				<range>726.8327881352758</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.44686807679415,-33.01428261034201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mercedes Beatriz, 5420m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.46030415847243</longitude>
+				<latitude>-33.06542598614893</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0218356543057309</heading>
+				<tilt>0</tilt>
+				<range>14972.03049939853</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.51436637703317,-33.08150251895501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cecilia y Melisa, 5373m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.52361606586257</longitude>
+				<latitude>-33.07537050910846</latitude>
+				<altitude>0</altitude>
+				<heading>0.0127124337236472</heading>
+				<tilt>0</tilt>
+				<range>5009.054993841501</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.52450812046318,-33.07706747498957,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5189</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.47293874342068</longitude>
+				<latitude>-33.06801787886587</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01494203124630295</heading>
+				<tilt>0</tilt>
+				<range>620.9623050409597</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.47286195089912,-33.06816367437138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El Plata 5968</name>
+			<Camera>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.45477821746033</longitude>
+				<latitude>-33.01377571563729</latitude>
+				<altitude>1251.179445784049</altitude>
+				<heading>-47.47363283182214</heading>
+				<tilt>0.01837047234214024</tilt>
+				<roll>6.942288210812625</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.4548629246183,-33.01581423214963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stepanek 4194</name>
+			<TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<coordinates>-69.39950752760292,-32.96780823104468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pico Amistad</name>
+			<TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint201</styleUrl>
+			<Point>
+				<coordinates>-69.390449,-32.972416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pico Plata 5845</name>
+			<TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<coordinates>-69.44681131587558,-33.01364237609922,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arenales 3392</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.34753896257885</longitude>
+				<latitude>-32.964585272027</latitude>
+				<altitude>0</altitude>
+				<heading>0.01883704896200931</heading>
+				<tilt>0</tilt>
+				<range>2411.111800025268</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.34973681805256,-32.96481842229354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Valentín, 2494m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.30753701195347</longitude>
+				<latitude>-32.97060729798184</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002931744564345947</heading>
+				<tilt>0</tilt>
+				<range>4362.609702651919</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.31392543630854,-32.96572539046952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Manantiales, 2496m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.31275366468319</longitude>
+				<latitude>-32.96832766634446</latitude>
+				<altitude>0</altitude>
+				<heading>-9.292813447364544e-05</heading>
+				<tilt>0</tilt>
+				<range>596.8844840023975</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.313304994676,-32.96881191485853,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chacay Sur, 2583m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.31650138339984</longitude>
+				<latitude>-32.97944344597431</latitude>
+				<altitude>0</altitude>
+				<heading>0.001949698017768701</heading>
+				<tilt>0</tilt>
+				<range>763.859937285455</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.31653263385715,-32.97967330963311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chacay, 2587m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.31686229700261</longitude>
+				<latitude>-32.97812405345737</latitude>
+				<altitude>0</altitude>
+				<heading>0.002146157506107916</heading>
+				<tilt>0</tilt>
+				<range>751.7012415316815</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.31672953504886,-32.97786873991775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Bernardo, 4156m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.38186677498132</longitude>
+				<latitude>-32.95979599959366</latitude>
+				<altitude>0</altitude>
+				<heading>0.03751129479606909</heading>
+				<tilt>0</tilt>
+				<range>1332.575649811102</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.38232051666731,-32.96001431865137,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mausy, 4500m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.39687402793194</longitude>
+				<latitude>-32.94962305683555</latitude>
+				<altitude>0</altitude>
+				<heading>0.04567563734011146</heading>
+				<tilt>0</tilt>
+				<range>1163.075370107088</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.39648221573245,-32.94931713425549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ignorado, 4132m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.3790946770203</longitude>
+				<latitude>-32.94114411699112</latitude>
+				<altitude>0</altitude>
+				<heading>0.03600799670154128</heading>
+				<tilt>0</tilt>
+				<range>834.8108839386792</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.37876141585386,-32.94087491760635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rastrillo, 4235m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.38002465028461</longitude>
+				<latitude>-32.93911064112738</latitude>
+				<altitude>0</altitude>
+				<heading>0.3841001274608265</heading>
+				<tilt>0</tilt>
+				<range>1181.203517438827</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.38153531755093,-32.93913456525163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Iluso, 3869m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.37006980861247</longitude>
+				<latitude>-32.94976924678667</latitude>
+				<altitude>0</altitude>
+				<heading>-10.16475687137247</heading>
+				<tilt>0</tilt>
+				<range>941.7252509292115</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.37040196681592,-32.9500286007834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cáucaso, 3806m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.36897349956064</longitude>
+				<latitude>-32.9507917416583</latitude>
+				<altitude>0</altitude>
+				<heading>-1.831158239809738e-09</heading>
+				<tilt>0</tilt>
+				<range>1071.158380331715</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.36874956789887,-32.95144968716799,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Estudiante, 3756m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.36897349956064</longitude>
+				<latitude>-32.9507917416583</latitude>
+				<altitude>0</altitude>
+				<heading>-1.831158239809738e-09</heading>
+				<tilt>0</tilt>
+				<range>1071.158380331715</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.36787809974138,-32.95285943414238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Loma Blanca, 3657m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.36370442871259</longitude>
+				<latitude>-32.95876798924675</latitude>
+				<altitude>0</altitude>
+				<heading>0.4605817704000114</heading>
+				<tilt>0</tilt>
+				<range>1049.241960822868</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.36320470223525,-32.95860104150118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tata. 1921</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.28424965569961</longitude>
+				<latitude>-32.95261419071623</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01559341094455647</heading>
+				<tilt>0</tilt>
+				<range>7661.00728197812</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.26654040082973,-32.95415407910846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2232</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.30660150825891</longitude>
+				<latitude>-32.95804663685612</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003436775007402105</heading>
+				<tilt>0</tilt>
+				<range>7420.133885063186</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.30986941757355,-32.95639040424163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Pablo2254</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.30660150825891</longitude>
+				<latitude>-32.95804663685612</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003436775007402105</heading>
+				<tilt>0</tilt>
+				<range>7420.133885063186</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.30194476521267,-32.96690953414555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Morro Chato, 4857m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.41013811251923</longitude>
+				<latitude>-32.94107429122032</latitude>
+				<altitude>0</altitude>
+				<heading>10.23663219447865</heading>
+				<tilt>0</tilt>
+				<range>2740.328550917538</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.41268679705837,-32.93928813917015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Agustín Álvarez, 5150m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.41099940755043</longitude>
+				<latitude>-32.92538165119318</latitude>
+				<altitude>0</altitude>
+				<heading>10.23710048259605</heading>
+				<tilt>0</tilt>
+				<range>2409.356954761283</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.41738732370787,-32.92655379583643,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pico Heidi, 4303m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.39326878503168</longitude>
+				<latitude>-33.06795739607297</latitude>
+				<altitude>0</altitude>
+				<heading>0.002600136557852724</heading>
+				<tilt>0.03383757446910465</tilt>
+				<range>4007.496631583239</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.39616123222829,-33.06426358184426,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Platita, 4400m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.39326878503168</longitude>
+				<latitude>-33.06795739607297</latitude>
+				<altitude>0</altitude>
+				<heading>0.002600136557852724</heading>
+				<tilt>0.03383757446910465</tilt>
+				<range>4007.496631583239</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.40052248633943,-33.06927389916223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Krauter, 5330m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.50186698599437</longitude>
+				<latitude>-33.06442297321621</latitude>
+				<altitude>0</altitude>
+				<heading>3.370532399344288e-05</heading>
+				<tilt>0</tilt>
+				<range>695.2548239076448</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.50224046254259,-33.0650451133056,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nevero, 5438m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.47067162469003</longitude>
+				<latitude>-33.0368210741186</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01699553983410482</heading>
+				<tilt>0</tilt>
+				<range>860.3415880167602</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.4713119343229,-33.03662598002309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dos Provincias, 4944m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.52019042427325</longitude>
+				<latitude>-33.02490368458426</latitude>
+				<altitude>0</altitude>
+				<heading>0.01010106134869899</heading>
+				<tilt>0</tilt>
+				<range>268.8754672280452</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.5203656639529,-33.02491226867514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mensajero de la Paz, 5400m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.53792941231272</longitude>
+				<latitude>-32.97775088606785</latitude>
+				<altitude>0</altitude>
+				<heading>0.1393593958937595</heading>
+				<tilt>0</tilt>
+				<range>1065.447832363933</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.53878713659846,-32.9780733119004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Monte Pelegrino, 5346m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.53899331827806</longitude>
+				<latitude>-32.95620198899753</latitude>
+				<altitude>0</altitude>
+				<heading>0.3791403352727566</heading>
+				<tilt>0</tilt>
+				<range>1274.721111869039</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.53982539902783,-32.95522952486624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Torre Mayor del Peine, 5403m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.53588654940535</longitude>
+				<latitude>-32.95998651540052</latitude>
+				<altitude>0</altitude>
+				<heading>0.3774502542033636</heading>
+				<tilt>0</tilt>
+				<range>2099.531507186437</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.53547065183385,-32.96052512852336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Morro Modesto Sanchez, 4474m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.36863877503637</longitude>
+				<latitude>-32.92739386086443</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0718443482133331</heading>
+				<tilt>0</tilt>
+				<range>4210.379960682489</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.38154444976706,-32.93129581881397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Morro el Expreso, 3916m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.36710632594523</longitude>
+				<latitude>-32.92888426101681</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07267736721671746</heading>
+				<tilt>0</tilt>
+				<range>2377.597806317972</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.3662769793582,-32.93041239576065,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Salto, 4717m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.38668231918336</longitude>
+				<latitude>-32.91841863874942</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06203887091849199</heading>
+				<tilt>0</tilt>
+				<range>4301.161260169146</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.39336712067572,-32.91749403507013,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alué Mapu, 3700m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.35712476037631</longitude>
+				<latitude>-32.92107743573897</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07810297820697189</heading>
+				<tilt>0</tilt>
+				<range>2030.944987400151</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.35985109614043,-32.92049056838556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mirador, 3260m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.35518586679569</longitude>
+				<latitude>-32.92130086210948</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07915681237774938</heading>
+				<tilt>0</tilt>
+				<range>1910.65549661894</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.35147467480847,-32.92266126287262,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pico Campanini, 5246m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.53059077669712</longitude>
+				<latitude>-32.95997078425124</latitude>
+				<altitude>0</altitude>
+				<heading>0.3745689134178846</heading>
+				<tilt>0</tilt>
+				<range>2295.422784138582</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.53062720940916,-32.9593370794699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pico San Esteban, 5167m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.52848472618507</longitude>
+				<latitude>-32.95850615523451</latitude>
+				<altitude>0</altitude>
+				<heading>0.3734230663677086</heading>
+				<tilt>0</tilt>
+				<range>1294.367756888139</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.52767576654838,-32.95962019002116,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pico Rosa, 5165m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.52848472618507</longitude>
+				<latitude>-32.95850615523451</latitude>
+				<altitude>0</altitude>
+				<heading>0.3734230663677086</heading>
+				<tilt>0</tilt>
+				<range>1294.367756888139</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.52744534326779,-32.9586559931706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pico El Fede, 5147m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.5280424992502</longitude>
+				<latitude>-32.95655062640493</latitude>
+				<altitude>0</altitude>
+				<heading>0.3731824771755274</heading>
+				<tilt>0</tilt>
+				<range>1296.281315759901</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.52733758406539,-32.95672610768921,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tatra, 5050m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.48625577812477</longitude>
+				<latitude>-32.94402742702904</latitude>
+				<altitude>0</altitude>
+				<heading>0.3504510617037366</heading>
+				<tilt>0</tilt>
+				<range>3396.797476796996</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.48995560782046,-32.94736188449376,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grewont, 4960m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.47835484879195</longitude>
+				<latitude>-32.9386074177086</latitude>
+				<altitude>0</altitude>
+				<heading>0.2265528838413939</heading>
+				<tilt>0</tilt>
+				<range>2138.955470209453</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.47825706341263,-32.93843198210804,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Junción, 5010m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.41540384092609</longitude>
+				<latitude>-32.94121765185854</latitude>
+				<altitude>0</altitude>
+				<heading>0.1923168045875598</heading>
+				<tilt>0</tilt>
+				<range>4572.12740094231</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.42021507882787,-32.93872182775515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pico Benay, 4900m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.41657462531978</longitude>
+				<latitude>-32.94059228581729</latitude>
+				<altitude>0</altitude>
+				<heading>0.1929534463941768</heading>
+				<tilt>0</tilt>
+				<range>3525.370091417581</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.41698394720891,-32.93860636641672,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Colorado, 5124m</name>
+			<Camera>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.41667182990369</longitude>
+				<latitude>-32.94544958216675</latitude>
+				<altitude>3882.82257565527</altitude>
+				<heading>2.620271821691851</heading>
+				<tilt>0.01020208895375461</tilt>
+				<roll>-2.357455525844972</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.42059419715538,-32.9464961036622,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Peñon Negrito, 2791m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.32915624778001</longitude>
+				<latitude>-32.91318507803254</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09330724640317845</heading>
+				<tilt>0</tilt>
+				<range>4903.390133078403</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.32379130860886,-32.90404568178885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Morro Negro, 3634m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.37040464138786</longitude>
+				<latitude>-33.02547317646497</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07162028602020923</heading>
+				<tilt>0</tilt>
+				<range>3903.71554915212</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.36766929110964,-33.0238138777785,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sgto. Manuel Rodriguez, 5628m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.5370544226534</longitude>
+				<latitude>-33.07484944739855</latitude>
+				<altitude>0</altitude>
+				<heading>0.0192867688715232</heading>
+				<tilt>0</tilt>
+				<range>503.0513992495271</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.53722347591277,-33.07495675647016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Daniel Susín 5255m</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<longitude>-69.49342030532785</longitude>
+				<latitude>-33.05676241651181</latitude>
+				<altitude>0</altitude>
+				<heading>0.06769016028524677</heading>
+				<tilt>0</tilt>
+				<range>3931.923722354312</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin14</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.49536747409374,-33.05627795284811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Santa Elena 5050</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.40649753316264</longitude>
+				<latitude>-32.92618566764778</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05125945925781524</heading>
+				<tilt>0</tilt>
+				<range>423.3856392970199</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.40668052050077,-32.92649888893018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Divisadero del Guanaco, 3598m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.3561614703987</longitude>
+				<latitude>-32.90265399932962</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07864824470537449</heading>
+				<tilt>0</tilt>
+				<range>3437.534401129401</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.36041676473297,-32.90172643760886,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pico Mary, 4496m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.3777736543779</longitude>
+				<latitude>-32.91591193405802</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06690579276643567</heading>
+				<tilt>0</tilt>
+				<range>1455.738706494625</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.38084790440911,-32.91601737474584,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4592</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<longitude>-69.49550071529858</longitude>
+				<latitude>-32.98171566143379</latitude>
+				<altitude>0</altitude>
+				<heading>0.0685031426561763</heading>
+				<tilt>0</tilt>
+				<range>4234.403098244962</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin14</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.49708848716534,-32.97932868462689,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Montura, 2915m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.3383439785536</longitude>
+				<latitude>-32.91715138005245</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08832658068421678</heading>
+				<tilt>0</tilt>
+				<range>2105.222471841033</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.34269938769911,-32.91580304370486,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Falso Santa Elena, 4730m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.38735047293078</longitude>
+				<latitude>-32.93016612925589</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06167026511074532</heading>
+				<tilt>0</tilt>
+				<range>1716.931530632374</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.39010782774159,-32.93027713863837,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Santiago,2286m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.30345680353899</longitude>
+				<latitude>-32.94680558685631</latitude>
+				<altitude>0</altitude>
+				<heading>-0.10728454877343</heading>
+				<tilt>0</tilt>
+				<range>2511.849453178253</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.30487253088002,-32.94697638513432,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>San Jorge, 3613m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.35606960395801</longitude>
+				<latitude>-32.9313969153739</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07867389212598658</heading>
+				<tilt>0</tilt>
+				<range>2825.185514513531</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.35331795938215,-32.93165843813441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>De la Polcura, 2879m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.32915624778001</longitude>
+				<latitude>-32.91318507803254</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09330724640317845</heading>
+				<tilt>0</tilt>
+				<range>4903.390133078403</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.32763471984846,-32.91108966204327,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bayo, 2994m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.32418318072652</longitude>
+				<latitude>-32.90043399073463</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09601212073319283</heading>
+				<tilt>0</tilt>
+				<range>7426.454884026589</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.34059981629029,-32.88976673407588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Castaño, 2899m</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.32140027107039</longitude>
+				<latitude>-32.92218715121721</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09753462827650168</heading>
+				<tilt>0</tilt>
+				<range>1098.762210421155</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.31981658408159,-32.92276431610212,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

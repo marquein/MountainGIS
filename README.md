@@ -7,8 +7,8 @@
 2. Tiempos de marcha calculados conforme a la distancias + el desnivel (solo el de subida) x 10, todo calculado a 3 km/h. Es sólo un método de aproximación del tiempo de marcha que intenta de alguna manera ponderar el esfuerzo del desnivel de subida.
 3. Escala de pendientes adaptada a mis sensaciones:
     1.  0º a 25º Leve- Amarillo
-    2.  25º a 45º Facil.
-    3.  45º a 50º Poco Dificil. Naranja.
+    2.  25º a 45º Fácil.
+    3.  45º a 50º Poco Difícil. Naranja.
     4.  50º a 60º Difícil. Rojo.
     5.  \>60º Muy Difícil. Negro.
 ---
@@ -42,8 +42,8 @@
 7. Nomenclatura de versión tomada del software: v0.1. 😜
 8. Escala de pendientes adaptada a mis sensaciones:
 	1. 0º a 25º Leve- Amarillo
-	2. 25º a 45º Facil. 
-	3. 45º a 50º Poco Dificil. Naranja.
+	2. 25º a 45º Fácil. 
+	3. 45º a 50º Poco Difícil. Naranja.
 	4. 50º a 60º Difícil. Rojo.
 	5. \>60º Muy Difícil. Negro.
 

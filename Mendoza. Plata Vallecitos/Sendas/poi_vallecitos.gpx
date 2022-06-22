@@ -4,8 +4,8 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2022-06-03T19:42:44Z</time>
-    <bounds maxlat="-32.775556985288858" maxlon="-69.094372009858489" minlat="-33.068963997066021" minlon="-69.45064396597445" />
+    <time>2022-06-07T18:32:01Z</time>
+    <bounds maxlat="-32.775556985288858" maxlon="-69.094372009858489" minlat="-33.068963997066021" minlon="-69.455000041052699" />
   </metadata>
 
   <wpt lat="-33.021588977426291" lon="-69.447382986545563">
@@ -1116,6 +1116,90 @@
     </extensions>
   </wpt>
 
+  <wpt lat="-32.996889017522335" lon="-69.432153990492225">
+    <ele>4965</ele>
+    <time>2021-11-21T11:14:22Z</time>
+    <name>Llegando al Col Plata-Vallecitos</name>
+    <cmt>Llegando al Col Plata-Vallecitos</cmt>
+    <desc>Llegando al Col Plata-Vallecitos</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-11-21T11:14:22Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.979664960876107" lon="-69.412771007046103">
+    <ele>4182</ele>
+    <time>2021-11-20T14:31:27Z</time>
+    <name>Llegando al Salto de Agua</name>
+    <cmt>Llegando al Salto de Agua</cmt>
+    <desc>Llegando al Salto de Agua</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-11-20T14:31:27Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.958514988422394" lon="-69.362199967727065">
+    <ele>0</ele>
+    <time>2018-04-23T20:18:45Z</time>
+    <name>Loma Blanca, 3657m</name>
+    <cmt>Loma Blanca, 3657m</cmt>
+    <desc>Loma Blanca, 3657m</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-04-23T20:18:45Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.981591038405895" lon="-69.420035015791655">
+    <ele>0</ele>
+    <time>2019-03-24T14:17:52Z</time>
+    <name>Mirador de Glaciares</name>
+    <cmt>Mirador de Glaciares</cmt>
+    <desc>Mirador de Glaciares</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-03-24T14:17:52Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
   <wpt lat="-33.017060989513993" lon="-69.45064396597445">
     <ele>5674</ele>
     <time>2017-11-24T13:35:57Z</time>
@@ -1131,6 +1215,128 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2017-11-24T13:35:57Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.95300698839128" lon="-69.367763958871365">
+    <ele>3811.8000000000002</ele>
+    <time>2019-05-14T17:46:44Z</time>
+    <name>null</name>
+    <cmt>null</cmt>
+    <desc>null</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-05-14T17:46:44Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.995424028486013" lon="-69.428349025547504">
+    <ele>4874</ele>
+    <time>2021-11-21T10:27:31Z</time>
+    <name>Objetivo a la vista!</name>
+    <cmt>Objetivo a la vista!</cmt>
+    <desc>Objetivo a la vista!</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-11-21T10:27:31Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.996045714244246" lon="-69.32618192397058">
+    <ele>2246</ele>
+    <time>2022-06-07T18:29:01Z</time>
+    <name>Odella Casa de Montaña</name>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-06-07T18:29:01Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.98117496073246" lon="-69.388004997745156">
+    <ele>3558</ele>
+    <time>2022-02-28T15:26:55Z</time>
+    <name>Para eso es el KKtubo</name>
+    <cmt>Para eso es el KKtubo</cmt>
+    <desc>Para eso es el KKtubo</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-02-28T15:26:55Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.941809017211199" lon="-69.402241995558143">
+    <ele>0</ele>
+    <time>2013-05-20T21:28:11Z</time>
+    <name>Pico Parra, 4450m</name>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2013-05-20T21:28:11Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.982770036906004" lon="-69.438501019030809">
+    <ele>5550</ele>
+    <time>2022-03-03T14:47:52Z</time>
+    <name>Pico vallecitos 5500msnm</name>
+    <cmt>Pico vallecitos 5500msnm</cmt>
+    <desc>Pico vallecitos 5500msnm</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2022-03-03T14:47:52Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1171,6 +1377,103 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2014-01-30T04:54:59Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.015900012105703" lon="-69.455000041052699">
+    <ele>5965</ele>
+    <time>2014-01-30T03:25:09Z</time>
+    <name>PLATA</name>
+    <cmt>PLATA</cmt>
+    <desc>PLATA</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-01-30T03:25:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.983109001070261" lon="-69.384131971746683">
+    <ele>0</ele>
+    <time>2013-05-27T02:16:29Z</time>
+    <name>Precumbre 1</name>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2013-05-27T02:16:29Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.985012028366327" lon="-69.386108005419374">
+    <ele>0</ele>
+    <time>2013-05-27T02:16:29Z</time>
+    <name>Precumbre 2</name>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2013-05-27T02:16:29Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.993461992591619" lon="-69.395073037594557">
+    <ele>0</ele>
+    <time>2013-05-27T02:16:29Z</time>
+    <name>Precumbre 4</name>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2013-05-27T02:16:29Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.995368959382176" lon="-69.397461041808128">
+    <ele>0</ele>
+    <time>2013-05-27T02:16:29Z</time>
+    <name>Precumbre 5</name>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2013-05-27T02:16:29Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1272,6 +1575,27 @@
     </extensions>
   </wpt>
 
+  <wpt lat="-32.923736041411757" lon="-69.365528002381325">
+    <ele>0</ele>
+    <time>2008-12-01T01:01:41Z</time>
+    <name>RIaniglia</name>
+    <cmt>RIaniglia</cmt>
+    <desc>RIaniglia</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2008-12-01T01:01:41Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
   <wpt lat="-32.980483034625649" lon="-69.416516963392496">
     <ele>4338</ele>
     <time>2014-01-30T03:31:22Z</time>
@@ -1293,6 +1617,27 @@
     </extensions>
   </wpt>
 
+  <wpt lat="-32.960103023797274" lon="-69.382157027721405">
+    <ele>0</ele>
+    <time>2014-07-02T16:12:05Z</time>
+    <name>San Bernardo, 4159m</name>
+    <cmt>San Bernardo, 4159m</cmt>
+    <desc>San Bernardo, 4159m</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-07-02T16:12:05Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
   <wpt lat="-32.979435967281461" lon="-69.413982024416327">
     <ele>4241</ele>
     <time>2021-11-22T12:51:17Z</time>
@@ -1310,6 +1655,48 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2021-11-22T12:51:17Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.98383797518909" lon="-69.399367002770305">
+    <ele>3857</ele>
+    <time>2021-11-22T13:38:19Z</time>
+    <name>Sendero de bajada1</name>
+    <cmt>Sendero de bajada</cmt>
+    <desc>Sendero de bajada</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-11-22T13:38:19Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.983157029375434" lon="-69.399862959980965">
+    <ele>3892</ele>
+    <time>2021-11-20T13:02:10Z</time>
+    <name>Sendero de subida</name>
+    <cmt>Sendero de subida</cmt>
+    <desc>Sendero de subida</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2021-11-20T13:02:10Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1375,6 +1762,25 @@
     </extensions>
   </wpt>
 
+  <wpt lat="-32.99793197773397" lon="-69.398208959028125">
+    <ele>0</ele>
+    <time>2013-05-27T02:16:29Z</time>
+    <name>Ultima Pre</name>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2013-05-27T02:16:29Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
   <wpt lat="-33.029566034674644" lon="-69.419616004452109">
     <ele>0</ele>
     <time>2019-04-01T17:26:01Z</time>
@@ -1413,6 +1819,88 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2013-03-19T00:56:51Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.973968032747507" lon="-69.358611004427075">
+    <ele>0</ele>
+    <time>2013-05-20T21:28:11Z</time>
+    <name>Vallecitos2</name>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2013-05-20T21:28:11Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.975518014281988" lon="-69.370177024975419">
+    <ele>3218.0999999999999</ele>
+    <time>2014-01-30T04:54:59Z</time>
+    <name>VEGUIT</name>
+    <cmt>VEGUIT</cmt>
+    <desc>VEGUIT</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-01-30T04:54:59Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.024134980514646" lon="-69.388474971055984">
+    <ele>0</ele>
+    <time>2019-04-01T12:10:56Z</time>
+    <name>Vista Macizo Cerro Negro</name>
+    <cmt>Vista Macizo Cerro Negro</cmt>
+    <desc>Vista Macizo Cerro Negro</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-04-01T12:10:56Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-33.024462964385748" lon="-69.382315026596189">
+    <ele>0</ele>
+    <time>2019-04-01T11:27:13Z</time>
+    <name>Vista Quebrada Angostura</name>
+    <cmt>Vista Quebrada Angostura</cmt>
+    <desc>Vista Quebrada Angostura</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-04-01T11:27:13Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -1491,6 +1979,27 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2017-11-24T13:41:21Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="-32.960296981036663" lon="-69.361911965534091">
+    <ele>3609.8000000000002</ele>
+    <time>2019-05-14T16:10:34Z</time>
+    <name>Ya falta menos</name>
+    <cmt>Ya falta menos</cmt>
+    <desc>Ya falta menos</desc>
+    <sym>Waypoint</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2019-05-14T16:10:34Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>

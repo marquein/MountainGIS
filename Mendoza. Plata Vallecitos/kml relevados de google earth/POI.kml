@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>POI.kml</name>
+	<Style id="waypoint_h171">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl91">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_triangle4">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="waypoint20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint_n23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint_h17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_n2100">
+		<IconStyle>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_campground10">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_triangle7">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_campground100">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/campground.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint_h170000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_campground100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_campground10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_campground100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="waypoint201">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint_n231</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint_h171</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="waypoint220">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint_n2100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint_h170000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_n231">
+		<IconStyle>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin140</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl91</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_h17">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_triangle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_n23">
+		<IconStyle>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin140">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>POI</name>
+		<Placemark>
+			<name>IANIGLA</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.36544988645281</longitude>
+				<latitude>-32.9241555835625</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07357759664225551</heading>
+				<tilt>0</tilt>
+				<range>464.0049045349521</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.36522401377245,-32.92405608967981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CAMP SALTO</name>
+			<TimeStamp><when>2019-04-19T18:52:45Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint220</styleUrl>
+			<Point>
+				<coordinates>-69.41512237288052,-32.97974531476053,4283.27</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El Salto Superior. Vallecitos</name>
+			<TimeStamp><when>2018-07-05T22:16:04Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint201</styleUrl>
+			<Point>
+				<coordinates>-69.416538,-32.98048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Las Veguitas</name>
+			<TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint201</styleUrl>
+			<Point>
+				<coordinates>-69.37078099999999,-32.976623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Yangrilá</name>
+			<TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint201</styleUrl>
+			<Point>
+				<coordinates>-69.40274599999999,-32.981635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Hollada</name>
+			<TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</TimeStamp>
+			<styleUrl>#msn_campground100</styleUrl>
+			<Point>
+				<coordinates>-69.42650706225542,-32.99035090242018,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Estacionamiento</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.36028093114695</longitude>
+				<latitude>-32.9747488955438</latitude>
+				<altitude>0</altitude>
+				<heading>0.0257973635753689</heading>
+				<tilt>0</tilt>
+				<range>553.9650932803581</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.35859452465773,-32.97484197676575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Piedra Grande. Vallecitos</name>
+			<TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint201</styleUrl>
+			<Point>
+				<coordinates>-69.38898500000001,-32.981499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Col Plata Vallecitos</name>
+			<TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint201</styleUrl>
+			<Point>
+				<coordinates>-69.43893300000001,-32.996783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stepanek. Inicio ruta.</name>
+			<TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint220</styleUrl>
+			<Point>
+				<coordinates>-69.389133,-32.975533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Canchita de Futbol. 4120</name>
+			<TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<coordinates>-69.40107390262942,-32.96870524450063,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>El Salto. Vallecitos</name>
+			<TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint220</styleUrl>
+			<Point>
+				<coordinates>-69.414883,-32.979649,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Base del Acarreo</name>
+			<styleUrl>#waypoint220</styleUrl>
+			<Point>
+				<coordinates>-69.38913328573108,-32.97553326934576,3725.92724609375</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VEGITAS JS</name>
+			<styleUrl>#waypoint220</styleUrl>
+			<Point>
+				<coordinates>-69.37079122453474,-32.97662846919575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Veguitas Superior</name>
+			<styleUrl>#waypoint220</styleUrl>
+			<Point>
+				<coordinates>-69.38333753496408,-32.97500303015113,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabañas Las margaritas</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.2822443176875</longitude>
+				<latitude>-33.00233488727027</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0166985473686451</heading>
+				<tilt>0</tilt>
+				<range>645.9076714718657</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.28296877839479,-33.00271065205759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabañas: Camino &amp; Piedra</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.27842845581166</longitude>
+				<latitude>-33.00252176017964</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01877711736401788</heading>
+				<tilt>0</tilt>
+				<range>614.7915381629207</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.27843016055175,-33.00282008081893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabañas Aventurados</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.27329849858987</longitude>
+				<latitude>-33.00012788029636</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02157123201532354</heading>
+				<tilt>0</tilt>
+				<range>753.7978944043398</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.27413882695059,-32.9998167865913,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabañas Valle Butacó</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.27073468660069</longitude>
+				<latitude>-32.99830024287336</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02296760336708672</heading>
+				<tilt>0</tilt>
+				<range>782.394658850076</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.27166101497146,-32.99818050137365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Posada del Blanco</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.26621636042292</longitude>
+				<latitude>-32.99628597261731</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02542839115135289</heading>
+				<tilt>0</tilt>
+				<range>811.5233948579319</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.26578819569103,-32.99593805654138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>arroyo y arboles - Camping</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.29753785695978</longitude>
+				<latitude>-33.00340784827792</latitude>
+				<altitude>0</altitude>
+				<heading>-0.008367690888587848</heading>
+				<tilt>0</tilt>
+				<range>355.7454354324239</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.29729462459031,-33.00343506507775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ref. El Chacay</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.3113132043444</longitude>
+				<latitude>-32.99400584345683</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0008653381607981277</heading>
+				<tilt>0</tilt>
+				<range>887.8464200075246</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.31114802768184,-32.99454334551105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Camping La Flor</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.29715604593484</longitude>
+				<latitude>-33.00249882584675</latitude>
+				<altitude>0</altitude>
+				<heading>-0.008575654976316325</heading>
+				<tilt>0</tilt>
+				<range>1544.677873061518</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.29139623457039,-33.00348505388028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Charamusca Cocina Andina</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.32235577658166</longitude>
+				<latitude>-32.9959440573499</latitude>
+				<altitude>0</altitude>
+				<heading>0.005148510277801685</heading>
+				<tilt>0</tilt>
+				<range>1263.246557311949</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.3227810425123,-32.996841056952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabaña Vallecitos</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.35462855377418</longitude>
+				<latitude>-32.98000163516616</latitude>
+				<altitude>0</altitude>
+				<heading>0.02272214697321122</heading>
+				<tilt>0</tilt>
+				<range>603.2383214561246</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.35448350008986,-32.97980587967758,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guardaparques</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.35196383591952</longitude>
+				<latitude>-32.98627207329237</latitude>
+				<altitude>0</altitude>
+				<heading>0.02127024711309101</heading>
+				<tilt>0</tilt>
+				<range>807.9359664885834</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.35141669127637,-32.98640841081733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ref. Edelweiss</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.35540111167956</longitude>
+				<latitude>-32.97972790784179</latitude>
+				<altitude>0</altitude>
+				<heading>0.02314127562032131</heading>
+				<tilt>0</tilt>
+				<range>591.1670968437302</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.35588671592174,-32.98010858010591,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cascada Quebrada de las vacas</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.34470553045868</longitude>
+				<latitude>-33.02730359370971</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08562676143897718</heading>
+				<tilt>0</tilt>
+				<range>388.7361920692448</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_triangle</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.3445763049172,-33.02742474428867,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Centro de Esquí</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.3593755236094</longitude>
+				<latitude>-32.97481611413402</latitude>
+				<altitude>0</altitude>
+				<heading>0.02530456665742106</heading>
+				<tilt>0</tilt>
+				<range>745.4380001693261</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.35924260978287,-32.97367649005655,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ref. Mausy</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.35856342691044</longitude>
+				<latitude>-32.97844896166547</latitude>
+				<altitude>0</altitude>
+				<heading>0.02486268077391026</heading>
+				<tilt>0</tilt>
+				<range>578.1563174946482</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.35842936006649,-32.97899180692129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabaña La Araucaria</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-69.32235577658166</longitude>
+				<latitude>-32.9959440573499</latitude>
+				<altitude>0</altitude>
+				<heading>0.005148510277801685</heading>
+				<tilt>0</tilt>
+				<range>1263.246557311949</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#waypoint20</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.32124469351434,-32.99824316970782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cabalgatas las Vegas</name>
+			<LookAt>
+				<gx:TimeStamp><when>2018-04-21T12:14:24.264Z</when>
+</gx:TimeStamp>
+				<longitude>-69.31254251249054</longitude>
+				<latitude>-33.01786106575886</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03076590454475656</heading>
+				<tilt>0</tilt>
+				<range>492.6586249859582</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin14</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.31307198598957,-33.01800037283369,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Qda. El Salto</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.36993514574714</longitude>
+				<latitude>-32.92274348478765</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07113978169118194</heading>
+				<tilt>0</tilt>
+				<range>2455.548115549571</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.36875336227305,-32.92400964531748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Qda. de la Manga</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.32878426069969</longitude>
+				<latitude>-32.92368674739609</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0935095449970294</heading>
+				<tilt>0</tilt>
+				<range>5287.426301058775</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.32935993327624,-32.92935150397484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cascada El Salto</name>
+			<LookAt>
+				<gx:TimeSpan>
+					<begin>2018-04-21T12:14:24.264Z</begin>
+					<end>2019-04-19T18:52:45Z</end>
+				</gx:TimeSpan>
+				<longitude>-69.34814722344559</longitude>
+				<latitude>-32.92150321548044</latitude>
+				<altitude>0</altitude>
+				<heading>-0.08300773056839969</heading>
+				<tilt>0</tilt>
+				<range>2234.752342861717</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin9</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-69.34888527904961,-32.92237986386878,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

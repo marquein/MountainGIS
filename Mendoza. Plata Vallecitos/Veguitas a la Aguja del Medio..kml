@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Veguitas a la Aguja del Medio..kml</name>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Veguitas a la Aguja del Medio.</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-69.3710817936562,-32.9765235986945,0 -69.37406748811357,-32.97461923816252,0 -69.37674496706205,-32.97477664130681,0 -69.37945990897754,-32.97333798310098,0 -69.38092279903491,-32.9731818390006,0 -69.38167269411649,-32.97332803481656,0 -69.38135616650604,-32.97149819091585,0 -69.38176522055279,-32.97121013646198,0 -69.38181292351871,-32.96761455460548,0 -69.38376151490817,-32.96587557654242,0 -69.38520674666296,-32.9644060833125,0 -69.38781009174944,-32.96274999939092,0 -69.38852717502267,-32.96188747463124,0 -69.38965370947777,-32.9616381799871,0 -69.39178040271861,-32.96004278361166,0 -69.39299896456356,-32.95997319966465,0 -69.39768508321612,-32.95930293770152,0 -69.39922681681372,-32.95868134795833,0 -69.4008756430338,-32.95892271617367,0 -69.40209217103626,-32.95849910570938,0 -69.40393873185739,-32.95867200143473,0 -69.40405130456107,-32.95966481929715,0 -69.40407871698785,-32.96007352945891,0 -69.40399318663989,-32.9600202269203,0 -69.40396725009377,-32.95990239128388,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
