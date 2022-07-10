@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Folder>
+    <name>geo.gob.bo</name>
+    <description>Exported on Mon Jul 04 2022 22:56:34 GMT-0300 (hora estándar de Argentina)</description>
+    <Placemark>
+      <name>OpenLayers_Feature_Vector_1828</name>
+      <description>No description available</description>
+      <ExtendedData>
+        <Data name="label">
+          <value>Sin título</value>
+        </Data>
+        <Data name="isBox">
+          <value>true</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-68.33666852754381,-16.319663022101604 -68.33666852754381,-16.139500561268562 -68.09897430336578,-16.139500561268562 -68.09897430336578,-16.319663022101604 -68.33666852754381,-16.319663022101604</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Folder>
+</kml>
+
+
